@@ -1,0 +1,1 @@
+import{d as a,o as e,c as o,e as s}from"./vendor.735a8723.js";var d=a({components:{},setup:()=>({})});const r=s()(((a,s,d,r,t,n)=>(e(),o("div",null,"监控台"))));d.render=r,d.__scopeId="data-v-315d3907";export default d;
