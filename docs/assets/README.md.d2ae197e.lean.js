@@ -1,0 +1,1 @@
+import{o as n,c as a,a as e}from"./app.7966acca.js";const s='{"title":"naive-ui-admin-doc","description":"","frontmatter":{},"headers":[{"level":2,"title":"如何本地开发","slug":"如何本地开发"}],"relativePath":"README.md","lastUpdated":1627459912110}',i={},t=e('',3);i.render=function(e,s,i,c,o,d){return n(),a("div",null,[t])};export default i;export{s as __pageData};
