@@ -1,1 +1,0 @@
-import{o as n,c as a,a as s}from"./app.c63f43cd.js";const e='{"title":"naive-ui-admin-docs","description":"","frontmatter":{},"headers":[{"level":2,"title":"如何本地开发","slug":"如何本地开发"}],"relativePath":"README.md","lastUpdated":1627538238660}',t={},i=s('',3);t.render=function(s,e,t,c,o,d){return n(),a("div",null,[i])};export default t;export{e as __pageData};
