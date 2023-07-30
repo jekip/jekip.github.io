@@ -1,1 +1,0 @@
-import"./BasicSetting.vue_vue_type_script_setup_true_lang.7fe0c85b.js";import{_ as t}from"./BasicSetting.vue_vue_type_script_setup_true_lang.7fe0c85b.js";import"./index.693e80b0.js";export{t as default};
