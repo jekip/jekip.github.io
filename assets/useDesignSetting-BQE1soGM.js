@@ -1,0 +1,1 @@
+import{l as p}from"./index--2wEcaVU.js";import{c as t}from"./vue-C3qUmXuJ.js";function i(){const e=p(),s=t(()=>e.darkTheme),o=t(()=>e.appTheme),n=t(()=>e.appThemeList);return{getDarkTheme:s,getAppTheme:o,getAppThemeList:n}}export{i as u};
